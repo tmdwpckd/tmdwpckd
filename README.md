@@ -1,4 +1,4 @@
-# Lee_jemyoung's GitHub
+# jemyoung's GitHub
 _Hi, I'm just starting out as a developer_ 
    
 _good luck everybody_   
